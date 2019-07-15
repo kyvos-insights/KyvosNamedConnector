@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialect name='KyvosDialect'
+         class='kyvos'
+         base='Hive12Dialect'
+         version='18.1'>
+   <function-map>
+    
+   </function-map>
+ </dialect>
