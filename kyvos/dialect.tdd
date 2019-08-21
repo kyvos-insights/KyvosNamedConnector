@@ -3,7 +3,9 @@
          class='kyvos'
          base='Hive12Dialect'
          version='18.1'>
-   <function-map>
-    
+   <function-map>    
    </function-map>
+   <sql-format>
+       <format-is-distinct value='NoNullCheck' />
+   </sql-format>
  </dialect>

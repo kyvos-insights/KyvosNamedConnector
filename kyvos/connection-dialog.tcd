@@ -2,14 +2,13 @@
   <connection-config>
     <authentication-mode value='Basic' />
     <authentication-options>
-      <option name="UsernameAndPassword" />
+      <option name="UsernameAndPassword" default="true" value="Username and Password"/>
     </authentication-options>
     <has-databases value="false" />
     <has-schemas value="true" />
-    <port-prompt value="Port: " default="8081" />
-    <server-prompt value="Server: "/>
-	<service-prompt value="HTTP Path: " default="kyvos/sql"/>
-	<show-service-prompt value="true" />
+    <port-prompt value="@string/port_prompt/" default="8081" />
+    <server-prompt value="@string/server_prompt/"/>
+	<service-prompt value="@string/service_prompt/" default="kyvos/sql"/>
 	<show-ssl-checkbox value="true" />
   </connection-config>
 </connection-dialog>

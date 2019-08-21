@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<connector-plugin class='kyvos' superclass='spark' plugin-version='0.0.0' name='Kyvos' version='18.1'>
+<connector-plugin class='kyvos' superclass='spark' plugin-version='1.0' name='@string/kyvos/' version='18.1'>
   <connection-customization class="kyvos" enabled="true" version="10.0">
     <vendor name="vendor"/>
     <driver name="driver"/>
