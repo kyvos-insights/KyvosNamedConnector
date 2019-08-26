@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="kyvos">Kyvos</string>
-  <string name="service_prompt">Http Path:</string>
+  <string name="service_prompt">HTTP Path:</string>
   <string name="server_prompt">Server:</string>
   <string name="port_prompt">Port:</string>
 </resources>
