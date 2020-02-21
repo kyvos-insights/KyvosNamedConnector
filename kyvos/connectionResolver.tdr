@@ -28,7 +28,7 @@
             <driver-name type='exact'>Kyvos ODBC Driver</driver-name>
 		</driver-match>
 		<driver-match platform='mac'>
-			<driver-name type='regex'>Simba Spark ODBC Driver*</driver-name>
+			<driver-name type='exact'>Kyvos ODBC Driver</driver-name>
 		</driver-match>
 		<driver-match platform='linux'>
 			<driver-name type='regex'>Simba Spark ODBC Driver*</driver-name>
